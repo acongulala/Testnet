@@ -43,7 +43,7 @@ sudo mv pop /opt/pop
 ### 5. Register your node
 ```bash
 cd /opt/pop/
-./pop --signup-by-referral-route ae7dc44a4ba6bfc5
+./pop --signup-by-referral-route 4f517f20155fb408
 ```
 
 ### 6. Handle any existing node_info.json from quick-start
